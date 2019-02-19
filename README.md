@@ -8,4 +8,7 @@ Git
 Github
 SSH
 git
-``
+html
+fontawesome
+google font
+css
